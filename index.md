@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Chú Đại Bi"
-date:   2023-09-10 22:00:00 +0700
 ---
 Nam mô Đại bi Hội thượng Phật Bồ-tát. (3 lần) 
 
